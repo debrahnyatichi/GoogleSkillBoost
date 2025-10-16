@@ -30,5 +30,4 @@ This repository is for **personal learning and documentation**.
 
 ---
 
-**Author:** Deborah Nyatichi Binyanya  
-🔗 [LinkedIn](https://www.linkedin.com/in/deborah-nyatichi-886b4206/)I
+**Author:** Deborah Nyatichi Binyanya 🔗 [LinkedIn](https://www.linkedin.com/in/deborah-nyatichi-886b04206/)I
